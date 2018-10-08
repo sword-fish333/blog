@@ -1,0 +1,40 @@
+.navbar-nav li{
+		font-style: italic;
+	color: white;
+	font-size: 18px;
+	font-family:'Almendra'; 
+}
+
+.nav-item{
+padding-right: 25px;
+}
+
+.line{
+	margin-top: -20px;
+}
+
+#footer{
+ padding-top:10px;
+ background-color:	#008080;
+ font-style:italic;
+padding-bottom: 10px;
+ font-family: 'Audiowide';
+ font-size: 32px;
+ text-align:center;
+
+}
+
+.parallax { 
+    /* The image used */
+    background-image: url("../images/poster.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

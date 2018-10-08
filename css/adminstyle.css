@@ -1,0 +1,49 @@
+.parallax { 
+    /* The image used */
+    background-image: url("../images/poster.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.col-sm-10{
+	background-color: #ffffff;
+}
+
+#Side_menu a{
+	color:#9fb1c2;
+}
+
+#Side_menu .active a{
+	color: #ffffff;
+	background-color: #27AAE1;
+	font-weight: bold;
+}
+
+#Side_menu a:hover{
+	color: #ffffff;
+	background-color: #1ab394;
+	display: block;
+	font-weight: bold;
+}
+
+#footer{
+ padding-top:10px;
+ background-color:	#008080;
+ font-style:italic;
+padding-bottom: 10px;
+ font-family: 'Audiowide';
+ font-size: 32px;
+ text-align:center;
+
+}
+
+
